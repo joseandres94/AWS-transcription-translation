@@ -1,0 +1,16 @@
+Ejemplo de contenido básico para .gitignore:
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Generated output files
+transcribe.json
+translated.json
