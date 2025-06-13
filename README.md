@@ -24,7 +24,7 @@ All interactions with these services are done through the AWS SDK for Python (Bo
 
 Before running this script, you need:
 
-1.  **Python 3.x:** Make sure Python is installed on your system.
+1.  **Python 3.8:** Make sure Python is installed on your system.
 2.  **AWS Account:** You need an active AWS account.
 3.  **AWS CLI Configured:** The AWS Command Line Interface (CLI) should be installed and configured with credentials and a default region (`aws configure`). The script uses your default AWS profile.
 4.  **Boto3 Library:** Install the Boto3 library for Python.
